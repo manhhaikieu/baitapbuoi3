@@ -1,0 +1,20 @@
+C:\Users\NGUYEN SY THIEN\source\repos\listview\listview\obj\Debug\listview.csproj.AssemblyReference.cache
+C:\Users\NGUYEN SY THIEN\source\repos\listview\listview\obj\Debug\listview.Form1.resources
+C:\Users\NGUYEN SY THIEN\source\repos\listview\listview\obj\Debug\listview.Properties.Resources.resources
+C:\Users\NGUYEN SY THIEN\source\repos\listview\listview\obj\Debug\listview.csproj.GenerateResource.cache
+C:\Users\NGUYEN SY THIEN\source\repos\listview\listview\obj\Debug\listview.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN SY THIEN\source\repos\listview\listview\bin\Debug\listview.exe.config
+C:\Users\NGUYEN SY THIEN\source\repos\listview\listview\bin\Debug\listview.exe
+C:\Users\NGUYEN SY THIEN\source\repos\listview\listview\bin\Debug\listview.pdb
+C:\Users\NGUYEN SY THIEN\source\repos\listview\listview\obj\Debug\listview.exe
+C:\Users\NGUYEN SY THIEN\source\repos\listview\listview\obj\Debug\listview.pdb
+C:\Users\LENOVO\Downloads\listview\bin\Debug\listview.exe.config
+C:\Users\LENOVO\Downloads\listview\bin\Debug\listview.exe
+C:\Users\LENOVO\Downloads\listview\bin\Debug\listview.pdb
+C:\Users\LENOVO\Downloads\listview\obj\Debug\listview.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\listview\obj\Debug\listview.Form1.resources
+C:\Users\LENOVO\Downloads\listview\obj\Debug\listview.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\listview\obj\Debug\listview.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\listview\obj\Debug\listview.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\listview\obj\Debug\listview.exe
+C:\Users\LENOVO\Downloads\listview\obj\Debug\listview.pdb
